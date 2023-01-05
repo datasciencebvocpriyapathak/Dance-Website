@@ -1,0 +1,127 @@
+html,
+body {
+  overflow-x: hidden;
+}
+body {
+  width: 100%;
+}
+header {
+  box-sizing: border-box;
+  width: 100%;
+  background-color: #ca74a3;
+}
+#logo {
+  padding: 12px 12px;
+}
+nav {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+nav ul li a {
+  font-size: 10px;
+  padding: 10px;
+}
+.text-all-center {
+  margin: 6px 0px 10px;
+  font-size: 20px;
+}
+#content {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.card {
+  font-size: 20px;
+  margin: 12px;
+  width: 270px;
+  height: 300px;
+}
+.card img {
+  height: 120px;
+}
+.line {
+  font-size: 15px;
+}
+#cat {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  justify-content: center;
+  align-items: center;
+}
+.box img {
+  flex-direction: column;
+  height: 230px;
+  width: 230px;
+}
+h2 {
+  font-size: 15px;
+}
+.about {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.line_plan {
+  font-size: 15px;
+}
+.plan {
+  margin-top: 12px;
+  font-size: 23px;
+  height: 230px;
+  width: 300px;
+}
+.plan #amt {
+  font-size: 30px;
+}
+.plan button {
+  font-size: 15px;
+  margin-top: 12px;
+  width: 215px;
+}
+#plan {
+  font-size: 15px;
+  margin-top: 12px;
+}
+#sponser {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#sponser img {
+  width: 100px;
+  height: 100px;
+}
+#logo {
+  width: 45px;
+  height: 45px;
+}
+.card img {
+  height: 80px;
+}
+footer {
+  font-size: 15px;
+  justify-content: center;
+  align-items: center;
+  background-color: #ca74a3;
+  width: 100%;
+}
+
+.form-control button {
+  font-size: 10px;
+}
+.form-control label {
+  font-size: 12px;
+}
+.form-control input,
+textarea {
+  font-size: 12px;
+  width: 200px;
+}
+#cont {
+  align-items: center;
+  justify-content: center;
+}
